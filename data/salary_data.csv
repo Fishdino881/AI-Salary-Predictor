@@ -1,0 +1,6 @@
+EducationLevel,JobRole,Location,CompanyType,SkillLevel,RemoteWork,YearsExperience,NumCertifications,Management,PerformanceRating,Salary
+Master,Data Scientist,Urban,Private,Advanced,Yes,5,2,0,Above Average,120000
+Bachelor,Software Engineer,Suburban,Startup,Intermediate,No,3,1,1,Average,90000
+PhD,ML Engineer,Urban,Private,Advanced,Yes,7,3,0,Above Average,150000
+Bachelor,Data Analyst,Rural,Government,Beginner,Yes,2,0,0,Average,70000
+Master,Data Scientist,Urban,Private,Intermediate,No,4,1,0,Average,110000
