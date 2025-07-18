@@ -1,0 +1,11 @@
+EducationLevel,JobRole,Location,CompanyType,SkillLevel,RemoteWork,YearsExperience,NumCertifications,Management,PerformanceRating,Salary
+Bachelor's,Software Engineer,New York,Startup,Intermediate,No,3,1,0,Average,800000
+Master's,Data Scientist,San Francisco,Enterprise,Expert,Yes,7,3,0,Exceptional,1200000
+PhD,AI Engineer,Seattle,Mid-size,Advanced,Yes,10,5,1,Top Performer,1500000
+High School,Customer Support,Austin,Startup,Beginner,No,1,0,0,Below Average,400000
+Bachelor's,Project Manager,Boston,Enterprise,Intermediate,No,5,2,1,Above Average,950000
+Master's,DevOps Engineer,London,Enterprise,Expert,No,6,2,1,Exceptional,1100000
+Bachelor's,Marketing Specialist,Chicago,Startup,Intermediate,No,2,0,0,Average,600000
+PhD,Research Scientist,Zurich,Mid-size,Advanced,Yes,12,4,1,Top Performer,1800000
+High School,Office Administrator,Dallas,Small Business,Beginner,No,4,0,0,Average,450000
+Bachelor's,Financial Analyst,Miami,Enterprise,Intermediate,No,3,1,0,Above Average,750000

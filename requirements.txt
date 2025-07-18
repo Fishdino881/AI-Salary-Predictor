@@ -1,0 +1,7 @@
+streamlit
+streamlit-lottie
+scikit-learn
+annotated-text
+pandas
+numpy
+plotly
