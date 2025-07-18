@@ -1,0 +1,14 @@
+{
+  "Python": {
+    "impact": 5,
+    "demand": "High"
+  },
+  "SQL": {
+    "impact": 3,
+    "demand": "High"
+  },
+  "Machine Learning": {
+    "impact": 8,
+    "demand": "High"
+  }
+}

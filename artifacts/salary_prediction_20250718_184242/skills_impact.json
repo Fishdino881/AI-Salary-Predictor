@@ -1,0 +1,38 @@
+{
+  "Python": {
+    "impact": 5,
+    "demand": "High"
+  },
+  "SQL": {
+    "impact": 3,
+    "demand": "High"
+  },
+  "Cloud Computing": {
+    "impact": 7,
+    "demand": "High"
+  },
+  "Machine Learning": {
+    "impact": 8,
+    "demand": "High"
+  },
+  "Data Visualization": {
+    "impact": 4,
+    "demand": "Medium"
+  },
+  "Project Management": {
+    "impact": 6,
+    "demand": "Medium"
+  },
+  "Communication": {
+    "impact": 2,
+    "demand": "Medium"
+  },
+  "Leadership": {
+    "impact": 7,
+    "demand": "High"
+  },
+  "Negotiation": {
+    "impact": 3,
+    "demand": "Low"
+  }
+}

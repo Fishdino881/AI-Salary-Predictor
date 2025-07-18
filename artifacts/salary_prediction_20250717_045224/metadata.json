@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-07-17T04:52:24.491310",
+  "model_type": "RandomForestRegressor",
+  "metrics": {
+    "mae": 233500.0,
+    "rmse": 250064.9915521963,
+    "r2": 0.5553244444444445
+  },
+  "best_params": {
+    "regressor__max_depth": 10,
+    "regressor__min_samples_split": 2,
+    "regressor__n_estimators": 100
+  },
+  "features": {
+    "categorical": [
+      "EducationLevel",
+      "JobRole",
+      "Location",
+      "CompanyType",
+      "SkillLevel",
+      "RemoteWork"
+    ],
+    "numerical": [
+      "YearsExperience",
+      "NumCertifications"
+    ],
+    "additional": [
+      "Management",
+      "PerformanceRating"
+    ]
+  },
+  "data_shape_trained": [
+    10,
+    10
+  ]
+}
