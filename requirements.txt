@@ -1,7 +1,8 @@
 streamlit
-streamlit-lottie
-scikit-learn
-annotated-text
 pandas
 numpy
+scikit-learn
+joblib
+matplotlib
 plotly
+reportlab
